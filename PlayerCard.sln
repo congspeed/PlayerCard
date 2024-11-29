@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerCard", "PlayerCard.csproj", "{0D4BBD62-6688-4D7B-B6B2-236566EF795E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D4BBD62-6688-4D7B-B6B2-236566EF795E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4BBD62-6688-4D7B-B6B2-236566EF795E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4BBD62-6688-4D7B-B6B2-236566EF795E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4BBD62-6688-4D7B-B6B2-236566EF795E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FD4F001-8090-4D51-86F0-EF5F8B481D1B}
+	EndGlobalSection
+EndGlobal
